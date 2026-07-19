@@ -4,8 +4,8 @@ slug: exhibition-5th
 dates: 2026.08.11 - 2026.08.13
 venue: 미정
 tagline: 필링이들의 다섯 번째 이야기
-poster_image: /assets/exhibition/poster-template.svg
-hero_alt: Filter Spring Exhibition poster
+poster_image: /assets/exhibition/언젠간-가겠지-푸르른-이-청춘.jpeg
+hero_alt: 다섯 번째 전시회 포스터
 cms_url: https://app.pagescms.org/filter-log/exhibition-5th/main
 public_url: https://filter-log.github.io/exhibition-5th
 ---
