@@ -1,8 +1,8 @@
 # Generated from exhibition.setup.yml. Edit that file instead.
-title: Filter Spring Exhibition
-description: Reusable archive template for photography exhibitions on GitHub Pages.
+title: 언젠가 가겠지 푸르른 이 청춘
+description: 필링이들의 다섯 번째 이야기
 url: https://filter-log.github.io
-baseurl: /exhibition-template
+baseurl: /exhibition-5th
 timezone: Asia/Seoul
 markdown: kramdown
 permalink: pretty
