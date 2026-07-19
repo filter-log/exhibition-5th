@@ -1,13 +1,13 @@
 repository:
   separator: "-"
-  suffix: template
+  suffix: 5th
 
 site:
-  title: Filter Spring Exhibition
-  description: Reusable archive template for photography exhibitions on GitHub Pages.
-  dates: 2026.03.20 - 2026.04.12
-  venue: Filter Archive, Seoul
-  tagline: A minimal archive for photographs, artist notes, and exhibition metadata.
+  title: 언젠가 가겠지 푸르른 이 청춘
+  description: 필링이들의 다섯 번째 이야기
+  dates: 2026.08.11 - 2026.08.13
+  venue: 미정
+  tagline: 필링이들의 다섯 번째 이야기
   poster_image: /assets/exhibition/poster-template.svg
   hero_alt: Filter Spring Exhibition poster
 
